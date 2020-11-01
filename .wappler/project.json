@@ -1,0 +1,28 @@
+{
+  "projectName": "control edx",
+  "designFramework": "framework7",
+  "routingHandler": "framework7",
+  "routingFile": "/js/routes.js",
+  "styleFile": "/css/style.css",
+  "assetsFolder": "/assets",
+  "frameworks": [
+    {
+      "name": "framework7_5",
+      "type": "With App Connect"
+    },
+    {
+      "name": "appConnect",
+      "type": "local"
+    },
+    {
+      "name": "framework7_icons",
+      "type": "local"
+    },
+    {
+      "name": "cordova",
+      "type": "local"
+    }
+  ],
+  "projectType": "app",
+  "appFile": "/js/app.js"
+}
