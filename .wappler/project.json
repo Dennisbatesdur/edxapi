@@ -24,5 +24,9 @@
     }
   ],
   "projectType": "app",
-  "appFile": "/js/app.js"
+  "appFile": "/js/app.js",
+  "cordova": {
+    "platform": ""
+  },
+  "activeGitRemote": "edxapi"
 }
